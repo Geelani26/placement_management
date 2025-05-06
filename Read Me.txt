@@ -1,0 +1,53 @@
+Campus placement interview process management system
+ 
+In this Project has two modules:
+ Admin
+ Student
+
+
+Admin:
+  Login the account with correct credentails
+  View Student details
+  Add  the interview details,like location, Job Description,Compay profile Etc.
+  Manage Details If we need to edit means we can edit ,no interviews means delet
+  View User requets and  Confrim the interviews
+  View all Confirmed interviews and graph based result
+  Logout
+
+Student:
+  Register the student with the basic information
+  After register user can login the account with correct credentials
+  View Interview details
+  Request to Particular details
+  view responses
+  Logout
+
+
+The Main aim of the Project is we can get information regarding Interviews and Confirm the interviews.
+
+
+
+Thankyou for watching this video
+by 
+1CRORE PROJECTS......
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mindtree Ltd is an Indian multinational information technology services and consulting company, headquartered in Bangalore. 
